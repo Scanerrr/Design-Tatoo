@@ -1,0 +1,32 @@
+{
+  "name": "Design-Tatoo",
+  "version": "1.0.0",
+  "description": "Tatoo Studio Design",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Scanerrr/Design-Tatoo.git"
+  },
+  "keywords": [],
+  "author": "Scanerrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scanerrr/Design-Tatoo/issues"
+  },
+  "homepage": "https://github.com/Scanerrr/Design-Tatoo#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-uncss": "^1.0.6"
+  }
+}
